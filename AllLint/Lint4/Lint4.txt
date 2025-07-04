@@ -1,0 +1,8 @@
+************* Module src.game
+src/game.py:11:0: R0902: Too many instance attributes (10/7) (too-many-instance-attributes)
+src/game.py:107:4: R0912: Too many branches (24/12) (too-many-branches)
+************* Module src.ui.ui_components
+src/ui/ui_components.py:11:4: R0913: Too many arguments (9/5) (too-many-arguments)
+
+-------------------------------------------------------------------
+Your code has been rated at 9.94/10 (previous run: 9.06/10, +0.88)

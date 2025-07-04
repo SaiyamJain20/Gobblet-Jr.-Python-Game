@@ -1,0 +1,20 @@
+************* Module gobblet
+gobblet.py:21:4: E1101: Module 'pygame' has no 'init' member (no-member)
+gobblet.py:32:8: E1101: Module 'pygame' has no 'quit' member (no-member)
+************* Module src.game
+src/game.py:10:0: R0902: Too many instance attributes (10/7) (too-many-instance-attributes)
+src/game.py:106:4: R0912: Too many branches (24/12) (too-many-branches)
+src/game.py:254:8: E1101: Module 'pygame' has no 'quit' member (no-member)
+************* Module src.constants
+src/constants.py:5:0: E1101: Module 'pygame' has no 'init' member (no-member)
+************* Module src.ui.input_handler
+src/ui/input_handler.py:25:29: E1101: Module 'pygame' has no 'QUIT' member (no-member)
+src/ui/input_handler.py:27:31: E1101: Module 'pygame' has no 'KEYDOWN' member (no-member)
+src/ui/input_handler.py:28:32: E1101: Module 'pygame' has no 'K_r' member (no-member)
+src/ui/input_handler.py:30:31: E1101: Module 'pygame' has no 'MOUSEBUTTONDOWN' member (no-member)
+************* Module src.ui.ui_components
+src/ui/ui_components.py:10:4: R0913: Too many arguments (9/5) (too-many-arguments)
+src/ui/ui_components.py:84:31: E1101: Module 'pygame' has no 'SRCALPHA' member (no-member)
+
+-------------------------------------------------------------------
+Your code has been rated at 9.06/10 (previous run: 8.64/10, +0.42)
